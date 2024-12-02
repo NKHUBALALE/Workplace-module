@@ -36,3 +36,7 @@ To set up and run this project locally, follow the steps below:
     ```bash
     python -m venv venv
     source venv/bin/activate   # On Windows, use venv\Scripts\activate
+
+3. Install the required dependencies::
+    ```bash
+    pip install -r requirements.txt
