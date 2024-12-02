@@ -33,5 +33,6 @@ To set up and run this project locally, follow the steps below:
    cd vegetable-price-forecasting
 
 2. Create a virtual environment and activate it:
+    ```bash
     python -m venv venv
     source venv/bin/activate   # On Windows, use venv\Scripts\activate
